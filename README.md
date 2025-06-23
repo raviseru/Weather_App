@@ -22,7 +22,7 @@ Watch a short demo here: [Streamable Demo](https://streamable.com/89gmyz)
 
 - **HTML5**
 - **CSS3**
-- **JavaScript
+- **JavaScript**
 - **OpenWeatherMap API**
 
 ---
